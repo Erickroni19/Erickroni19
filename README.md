@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/uc?id=1EFgB9Ek9dU5jbGmPyT9N1M-ri3sDjY56" >
+![Descripción de la imagen](https://drive.google.com/uc?id=1EFgB9Ek9dU5jbGmPyT9N1M-ri3sDjY56)
+
 <h3 align="center">Systems Engineer || Frontend Developer </h3>
 
 - Correo Contacto: **erickromeronieto789@gmail.com**
