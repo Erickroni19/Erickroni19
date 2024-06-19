@@ -5,7 +5,7 @@
 - Correo Contacto: **erickromeronieto789@gmail.com**
 
 # Sobre mi:
-Ingeniero de sistema con formación en el desarrollo de aplicaciones web y experiencia en tecnologías frontend, incluyendo Angular, Typescript, HTML, CSS, Sass y JavaScript. Mi enfoque se centra en crear soluciones intuitivas y atractivas que mejoren la experiencia del usuario y optimicen el rendimiento de las aplicaciones.
+Ingeniero de sistema con formación en el desarrollo de aplicaciones web y experiencia en tecnologías frontend, incluyendo Angular, Typescript, HTML, CSS, SASS y JavaScript.. Soy apasionado por el aprendizaje constante, siempre buscando oportunidades para expandir mis conocimientos y habilidades, manteniéndome al día con las últimas tendencias en desarrollo web.
 
 
 ##  Redes Sociales:
